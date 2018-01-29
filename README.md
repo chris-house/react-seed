@@ -1,5 +1,7 @@
 # react-tahttg
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/crh225/react-seed.svg)](https://greenkeeper.io/)
+
 [Edit this project on StackBlitz](https://stackblitz.com/edit/react-tahttg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
