@@ -1,6 +1,4 @@
-# react-tahttg
-
-[Edit this project on StackBlitz](https://stackblitz.com/edit/react-tahttg)
+# react-seed
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
